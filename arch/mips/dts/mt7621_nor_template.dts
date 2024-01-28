@@ -43,8 +43,8 @@
 			function = "gpio";
 		};
 
-		rgmii2 {
-			groups = "rgmii2";
+		pcie {
+			groups = "pcie";
 			function = "gpio";
 		};
 	};
