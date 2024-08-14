@@ -29,20 +29,6 @@
 			function = "nand2";
 		};
 
-		jtag {
-			groups = "jtag";
-			function = "gpio";
-		};
-
-		wdt {
-			groups = "wdt";
-			function = "gpio";
-		};
-
-		rgmii2 {
-			groups = "rgmii2";
-			function = "gpio";
-		};
 	};
 };
 
