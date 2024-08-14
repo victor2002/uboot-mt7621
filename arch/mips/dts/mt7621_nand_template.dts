@@ -29,6 +29,16 @@
 			function = "nand2";
 		};
 
+		jtag {
+			groups = "jtag";
+			function = "gpio";
+		};
+
+		wdt {
+			groups = "wdt";
+			function = "gpio";
+		};
+
 	};
 };
 
